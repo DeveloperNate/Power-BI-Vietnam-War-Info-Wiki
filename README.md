@@ -20,9 +20,15 @@ Figure 1 - Final Dashboard
 
 The full code that was created to collect and clean the data can be found in the file "Python_code.ipynb". Below I will quickly explain the steps that I took to get the data. 
 
-<h2> Webscrapping the Data</h2>
+<h2> Step 1 - Webscrapping the Data</h2>
 I used Pandas and its read_html tool to upload the data from Wikipedia into a Pandas dataframe.
 
 <img src="wiki_data.JPG">
 
+However, this produced a table that contained data that would be very difficult to use as there was no consistant date or location format.
 
+<img src="wiki_original_data.JPG">
+
+<h2> Step 2- Cleaning up the Dat </h2> 
+
+I then used a number of 
