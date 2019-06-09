@@ -40,6 +40,7 @@ I then used a number of  regular expression and normalization techniques to :
   <li>Split the Location into Province and Cities </li>
  </ul>
  
+ The full process can  be seen in the file "Python_code.ipynb".
  Figure4 - Regular Expressions
  <img src="reg_expressions.JPG">
  
