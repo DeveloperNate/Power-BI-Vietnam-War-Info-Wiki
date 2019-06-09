@@ -14,5 +14,5 @@ Below is an image of a Power BI Dashboard that I created. The data was obtained 
 </ul>
 
 Figure 1 - Final Dashboard 
-<img src="Vietnam.jpg">
+<img src="Vietnam.JPG">
   
