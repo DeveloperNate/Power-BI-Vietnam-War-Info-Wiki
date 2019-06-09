@@ -12,4 +12,7 @@ Below is an image of a Power BI Dashboard that I created. The data was obtained 
   <li> A Description of each Battle.</li>
   <li> The exact Time of each Battle. </li>
 </ul>
+
+Figure 1 - Final Dashboard 
+<img src="Vietnam.jpg">
   
