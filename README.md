@@ -22,6 +22,7 @@ The full code that was created to collect and clean the data can be found in the
 
 <h2> Webscrapping the Data</h2>
 I used Pandas and its read_html tool to upload the data from Wikipedia into a Pandas dataframe.
-<img scr="wiki_data.JPG">
+
+<img src="wiki_data.JPG">
 
 
